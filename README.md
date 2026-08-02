@@ -3,3 +3,7 @@
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,cs,java,dotnet,vscode,visualstudio,idea,vim,blender,git,github,md,svg&theme=dark)](https://skillicons.dev)
+
+# Link
+
+[爱发电](https://ifdian.net/a/HuaMouRen)
